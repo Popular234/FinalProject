@@ -1,0 +1,35 @@
+body{
+    background-color: indianred;
+}
+div{
+    background-color: wheat;
+    height: 50%;
+    width: 100%;
+    margin-top: 2%;
+    margin-left: 2%;
+    padding: 2%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+dt{
+    margin: 2%;
+    font-size: x-large;
+    font-weight: bolder;
+    color:cadetblue;
+}
+dd{
+    margin-left: 2%;
+    font-size: large;
+    color: coral;
+    width: 50%;
+}
+table{
+    margin: auto;
+    margin-top: .5%;
+}
+img{
+    width: 816px;
+    height: 616px;
+    margin: auto;
+}
